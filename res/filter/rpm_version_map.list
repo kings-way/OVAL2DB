@@ -1,0 +1,17 @@
+# Config Example
+
+# Distro	Release		Package		CentOS Version	==	 RedHat Version
+centos		6	httpd		2.2.15-60.el6.centos.6	2.2.15-60.el6_9.6
+centos		6	httpd-tools	2.2.15-60.el6.centos.6	2.2.15-60.el6_9.6
+
+centos		6	xulrunner	17.0.10-1.el6.centos 	17.0.10-1.el6_4
+centos		6	dhclient 	4.1.1-53.P1.el6.centos.3	4.1.1-53.P1.el6_9.3
+
+centos 		7	httpd 		2.4.6-67.el7.centos.6	2.4.6-67.el7_4.5
+centos 		7	httpd-tools 2.4.6-67.el7.centos.6	2.4.6-67.el7_4.5
+
+centos 		7	dhclient	4.2.5-58.el7.centos.3	4.2.5-58.el7_4.3
+centos 		7	dhcp-libs	4.2.5-58.el7.centos.3	4.2.5-58.el7_4.3
+centos 		7	dhcp-common	4.2.5-58.el7.centos.3	4.2.5-58.el7_4.3
+centos 		7	firefox		52.7.0-1.el7.centos 	52.7.0-1.el7_4
+centos 		6	dbus-glib	0.86-6.el6				0.86-6.el6_4

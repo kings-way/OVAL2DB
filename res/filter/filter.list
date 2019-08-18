@@ -1,0 +1,25 @@
+# Config Example
+
+# Distro	Ver.	CVE/OVAL	CVE Number/ OVAL definition title
+
+#debian		8		CVE		CVE-1234-1234	
+#ubuntu		14.04	CVE		CVE-1234-1234
+#redhat		7		CVE		CVE-1234-1234
+
+#ubuntu		14.04	OVAL	CVE-1234-1234
+#debian		8		OVAL	CVE-1234-1234
+#redhat		7		OVAL	RHSA-1234:1234
+ 
+redhat		6		OVAL	RHSA-2013:0568
+redhat		6		OVAL	RHSA-2013:1476
+redhat 		7		OVAL	RHSA-2017:0372
+
+redhat		6		OVAL	RHSA-2017:0184
+redhat		7		OVAL	RHSA-2017:0184
+redhat		7		OVAL	RHSA-2017:0252
+
+redhat		6		OVAL 	RHSA-2016:0372
+redhat		6		OVAL 	RHSA-2017:3071
+redhat 		7		OVAL 	RHSA-2018:0014
+redhat 		7		OVAL 	RHSA-2018:0180
+redhat 		7		OVAL 	RHSA-2018:0502
