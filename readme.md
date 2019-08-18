@@ -1,4 +1,5 @@
-### OVAL2DB, a tool to transfer OVAL data from XML to flat table in SQLite.
+### OVAL2DB
+a tool to transfer OVAL data from XML to flat table in SQLite.
 
 ---
 
@@ -6,14 +7,16 @@
 
 [OVAL](https://oval.mitre.org/language/version5.10.1/OVAL_Language_Specification_01-20-2012.pdf) stands for 'Open Vulnerability and Assessment Language', it covers a lot of complicated things and belongs to a bigger project called [SCAP](https://csrc.nist.gov/projects/security-content-automation-protocol/).
 
-It's been used by major Linux distributions to perform vulnerability assessment. Actually, they just use OVAL to organize their package updates information related to security problems. So we just extract the needed information from complex XML data structure into a simple table in SQLite. And this enables us to perform fast vul assessment over a large scale cluster.
+It's been used by major Linux distributions to perform vulnerability assessment. Actually, they just use OVAL to organize their package updates information related to security problems. 
+
+So we just extract the needed information from complex XML data structure into a simple table in SQLite. And this enables us to perform fast vul assessment over a large scale cluster.
 
 
 #### 2. How to run
 	
 	bash run.sh
 
-And then you may find the SQLite db file exists at res/db/vul_data.db
+And then you may find the SQLite db file exists at res/db/vul_data.sqlite
 
 #### 3. Notice
 
