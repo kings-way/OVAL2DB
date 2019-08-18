@@ -20,7 +20,7 @@ And then you may find the SQLite db file exists at res/db/vul_data.sqlite
 
 #### 3. Notice
 
-* This is a side project based on what I did at Alibaba Cloud, when I was assigned to perform security assessment for VM images.
+* This is a side project based on what I did at Alibaba Cloud years ago, when I was assigned to perform security assessment on VM images.
 
 * For distributions like centos, which does not offer OVAL feeds, we use the data from RHEL instead. And of course, many pitfalls there.
 
